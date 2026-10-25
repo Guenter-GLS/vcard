@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Quiter;Guenter;;;
-FN:Guenter Quiter
-ORG:Guenter-Lab System
-TITLE:IT-Security Architect
+N;CHARSET=UTF-8:Quiter;Günter;;;
+FN;CHARSET=UTF-8:Günter Quiter
+ORG;CHARSET=UTF-8:Günter-Lab System
+TITLE;CHARSET=UTF-8:IT-Security Architect
 TEL;TYPE=WORK,VOICE:+49 151 2398  5820
 EMAIL;TYPE=INTERNET:guenter.quiter@t-online.de
-NOTE:IT-Security Architect @ it-sa 2026 | Autarkes Private AI & Security Lab
+NOTE;CHARSET=UTF-8:IT-Security Architect @ it-sa 2026 | Autarkes Private AI & Security Lab
 END:VCARD
